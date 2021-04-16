@@ -14,8 +14,8 @@ Local installation of python and pip
 ## Run
 Playlist download  
 
-    python .\downloader.py -p "https://www.youtube.com/watch?v=jr47YisIsz8&list=PLxhnpe8pN3TmtjcQM7zcYAKhQXPdOHS3Y"
+    python .\downloader.py -p "https://www.youtube.com/watch?v=ZmDBbnmKpqQ&list=PLdKZ5BB_ofd8Yz2CRuE9HMk5I8UyDNfbz"
     
 Single video 
 
-    python .\downloader.py -s "https://www.youtube.com/watch?v=NvQ0ezsRVtY
+    python .\downloader.py -s "https://www.youtube.com/watch?v=NvQ0ezsRVtY"
