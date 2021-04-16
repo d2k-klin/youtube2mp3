@@ -12,8 +12,10 @@ Local installation of python and pip
     pip install -r requirements.txt
 
 ## Run
-Playlist download   
+Playlist download  
+
     python .\downloader.py -p "https://www.youtube.com/watch?v=jr47YisIsz8&list=PLxhnpe8pN3TmtjcQM7zcYAKhQXPdOHS3Y"
     
 Single video 
+
     python .\downloader.py -s "https://www.youtube.com/watch?v=NvQ0ezsRVtY
