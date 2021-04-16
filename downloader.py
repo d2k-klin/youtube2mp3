@@ -18,7 +18,6 @@ parser.add_argument("-p", "--playlist", dest="playlist_input",
 parser.add_argument("-s", "--song", dest="song_input",
                     help="Youtube URL to a single song", nargs='?', default=None)
 
-
 args = parser.parse_args()
 
 def convert2mp3(folder, file):
