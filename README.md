@@ -20,3 +20,7 @@ playlist download
 single video download
 
     python .\downloader.py -s "https://www.youtube.com/watch?v=NvQ0ezsRVtY"
+
+# DISCLAIMER
+## ALL THE CONTENT BELONGS TO YOUTUBE.COM. IT MIGHT BE ILLEGAL TO USE THIS TOOL IN SOME COUNTRIES.
+## I DON'T SUPPORT MUSIC PIRACY!
