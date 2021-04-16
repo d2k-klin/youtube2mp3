@@ -1,5 +1,5 @@
 # youtube2mp3
-## Simple script for download yourube videos as mp3 files
+## Simple script for download YouTube videos as mp3 files
 I have written this simple python script for my daughter to be able to download music from YouTube
     - application support providing whole playlist or just a sinle video
     - for playlist it will check of maximum number of parallel tasks and do download in parallel
